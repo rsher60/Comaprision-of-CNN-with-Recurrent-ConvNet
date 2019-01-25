@@ -12,7 +12,8 @@ The project was completed using [Google Colab](https://colab.research.google.com
 -Numpy
 -pandas
 -mpl_toolkits
--glob
 -matplotlib
+-glob
+
 
 # 
